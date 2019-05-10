@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.labseni</groupId>
 	<artifactId>cilukba</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>cilukba</name>
 	<description>Spring boot percobaan untuk versi 11</description>
 
